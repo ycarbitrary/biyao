@@ -1,0 +1,105 @@
+.box{
+	width: 100%;
+}
+.banner{
+	width: 100%;
+	height: 300rpx;
+}
+.banner image{
+	width: 100%;
+}
+.jj{
+	margin: 10rpx;
+	font-size: 30rpx;
+	color: #9687a4;
+}
+.pz{
+	display: flex;
+	justify-content: space-between;
+}
+.js{
+	width: 100%;
+	margin-top: 40rpx;
+	height: 100rpx;
+	display: flex;
+	justify-content: space-between;
+}
+.pag{
+	width: 20%;
+	height: 100%;
+	text-align: center;
+}
+.pag image{
+	width: 40%;
+	height: 60%;
+}
+.pag text{
+	color: #000;
+}
+.sp{
+	width: 100%;
+	height: 70vh;
+}
+
+
+.tl{
+    display: flex;
+    width: 100%;
+	}
+.item {
+    width: 50%;
+    overflow: hidden;
+	/* height: 800rpx; */
+}
+
+.item image {
+    display: block;
+    width:100%;
+   height: 400rpx;
+    margin-bottom: 20rpx;
+}
+.item view{
+    margin-left: 30rpx;
+    font-size: 30rpx;
+    margin-top: 10rpx;
+}
+.item .onp{
+    font-size: 40rpx;
+    color: #f7a701;
+}
+.item .onp i{
+    font-size: .40rpx;
+}
+.item .bps{
+    color: #fff;
+    font-size: 24rpx;
+}
+.item .bp{
+    padding:5rpx;
+    background-color: #ab7fd1;
+    margin-right: 10rpx;
+}
+.item .yqp{
+    border: 1px solid #fb4c81;
+    color: #fb4c81;
+}
+.item .jsss{
+    color: #bf9e6b;
+    width: 80%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; 
+}
+.item .hp{
+    color: #bbb;
+    font-size: 34rpx;
+}
+.sp{
+	width: 100%;
+}
+.name{
+	width: 80%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap; 
+}
