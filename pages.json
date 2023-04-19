@@ -7,7 +7,7 @@
 			}
 		},
 		{
-			"path":"pages/cart/cart",
+			"path": "pages/cart/cart",
 			"style": {
 				"navigationBarTitleText": "必要商城"
 			}
@@ -23,17 +23,20 @@
 			"style": {
 				"navigationBarTitleText": "必要商城"
 			}
+		},
+		{
+			"path": "pages/goods/goods",
+			"style": {
+				"navigationBarTitleText": "商品详情"
+			}
+		},
+		{
+			"path": "pages/masterCatetory/masterCatetory",
+			"style": {
+				"navigationBarTitleText": "必要商城"
+			}
 		}
-        ,{
-            "path" : "pages/masterCatetory/masterCatetory",
-            "style" :                                                                                    
-            {
-                "navigationBarTitleText": "必要商城"
-               
-            }
-            
-        }
-    ],
+	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
