@@ -24,7 +24,16 @@
 				"navigationBarTitleText": "必要商城"
 			}
 		}
-    ]
+        ,{
+            "path" : "pages/masterCatetory/masterCatetory",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "必要商城"
+               
+            }
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
@@ -59,8 +68,8 @@
 				"iconPath": "/static/images/common/tabbar/user.png",
 				"selectedIconPath": "/static/images/yellow/tabbar/user.png",
 				"text": "个人"
-			},
-		],
+			}
+		]
 	},
 	"uniIdRouter": {}
 }
